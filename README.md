@@ -1,9 +1,9 @@
-#First Assignment 
+# First Assignment 
 
-#Interesting Article
+# Interesting Article
 https://builtin.com/articles/platform-engineering-product-development 
 
-##Why I liked this article
+## Why I liked this article
 
 I liked this article because it discusses the future of software engineering which there is a lot of uncertainty in right now (particularly at the level with automation). There are many forums such as subreddits discussing computer science careers that are trying to speculate what areas might be opportunities in the **future**. At the moment, it seems that a lot of ideas seem to be based on the past predicting the future, which of course is a decent and empirical method of prediction but things are changing. The article provides an argument based off of how new technologies can be implemented and a description of what that could be like. 
 
