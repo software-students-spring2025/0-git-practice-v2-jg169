@@ -9,6 +9,16 @@ I liked this article because it discusses the future of software engineering whi
 
 Otherwise, I believe that the article is also my introduction to the concept of platform engineering although I am not aware of how common it is. This is a term that I will perhaps note of in the future. 
 
+
 ## Additional Perspective (by Polaris)
 
 I also found this article interesting due to its discussion of platform engineering's role in software development. It's fascinating to see how platform engineering could streamline development processes and automate infrastructure management. The article's insights about future trends in software engineering, particularly regarding automation and platform tools, provide valuable perspective on where our industry is heading.
+=======
+## Buki Seid Comment on the Article
+
+This article does a great job breaking down how platform engineering helps teams work faster and build better products by making everything more streamlined and efficient.
+
+
+- *By [Buki Seid]*  
+- *(January 30, 2025)*  
+
